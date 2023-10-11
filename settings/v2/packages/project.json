@@ -1,0 +1,28 @@
+{
+  "custom_joint_texture_layouts": [
+    {
+      "name": "alien",
+      "textureLength": 72,
+      "contents": [
+        {
+          "skeleton": "97416c08-49f6-4643-89e6-e0589aedcc33@30732",
+          "clips": [
+            "97416c08-49f6-4643-89e6-e0589aedcc33@8364a"
+          ]
+        }
+      ]
+    }
+  ],
+  "__version__": "1.0.5",
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  },
+  "general": {
+    "designResolution": {
+      "width": 960,
+      "height": 640
+    }
+  }
+}
